@@ -1,13 +1,12 @@
 # Hack The North 2022
 
-![image of a brightly lit, hostel room with a bunk bed overlooking the view of an apartment window](/marcus-loke-WQJvWU_HZFo-unsplash.jpg) *(Photo by [Marcus Loke](https://unsplash.com/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+![image of a brightly lit, hostel room with a bunk bed overlooking the view of an apartment window](/marcus-loke-WQJvWU_HZFo-unsplash.jpg) _(Photo by [Marcus Loke](https://unsplash.com/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))_
 
 ## GoodRoom, a voice-powered room servicing platform
 
 ![GoodRoom logo](/logo.png)
 
-The story of our project was inspired by a less-than-stellar hostel room service experience involving a ghost call for pillows at 1 AM! 😴 This triggered an idea for us to create an application that integrates with the Telegram API and Voiceflow to enable ease of usability and accessibility when people request room services.
-
+The story of our project was inspired by a less-than-stellar hotel room service experience involving a ghost call for pillows at 1 AM! 😴 This triggered an idea for us to create an application that integrates with the Telegram API and Voiceflow to enable ease of usability and accessibility when people request room services.
 
 Tech stack:
 
@@ -20,6 +19,7 @@ Tech stack:
 # clone repo
 $ git clone `<repo URL>`
 ```
+
 ---
 
 ## Table of Contents
@@ -39,13 +39,12 @@ $ git clone `<repo URL>`
 
 ### The challenge
 
-The challenge of this hackathon project was to combine the technologies of Voiceflow and Telegram API ...
+The challenge of this hackathon project was to combine the technologies of Voiceflow and Telegram API.
 
 Some of our following challenges were:
 
 - Whatsapp API is not intuitive to receive messages from. The only way to receive messages was to set up an HTTP server and listen via a webhook, and Whatsapp hadn't simplified the process at all. For the sake of time we decided not to go with Whatsapp and instead used Telegram, which was much simpler.
-- dialog response configuration ...
-- front-end web configuration issues
+- dialog response configuration was not easy to set up as we have to learn how to interact with the platform in a very short period of time
 
 Our users would be able to:
 
@@ -56,10 +55,10 @@ Our users would be able to:
 ### Screenshots
 
 - ![Dialog box of Voiceflow chat UI](/dialog-box.png)
-*This image displays a sample dialog response and answer feedback loop*
+  _This image displays a sample dialog response and answer feedback loop_
 
 - ![Response flow chart of Voiceflow dialog design](/response-flow.png)
-*Voiceflow\'s web UI showing a visual depiction of the start of a conversation and the resulting flows that arise from different sample answers*
+  _Voiceflow\'s web UI showing a visual depiction of the start of a conversation and the resulting flows that arise from different sample answers_
 
 ### Links
 
@@ -67,12 +66,11 @@ Our users would be able to:
 
 ## Our process
 
-As good developers do, we started off by researching the documentation for Voiceflow and Telegram API. As the hours passed and more snacks were consumed, we ran into an issue where ...
+As good developers do, we started off by researching the documentation for Voiceflow and Telegram API. As the hours passed and more snacks were consumed, we ran into nemerous issue that we did not expect.
 
+Eventually, due to configuration issues, we chose to replace a self-developoed front-end web UI to using Telegram API. This helped us maximize quality over quantity.
 
-We chose to eventually scrao the front-end web UI due to configuration issues to put more emphasis on backend development and integrations, maximizing quality over quantity.
-
-Our name was created through keyword exploration and logo exploration, based on the keywords of warmth, comfort, room service, and (good) hospitality. 
+Our name was created through keyword exploration and logo exploration, based on the keywords of warmth, comfort, room service, and (good) hospitality.
 
 The logo\'s red-violet scheme was chosen to reflect a sense of ambience and night sky colours when a good night\'s sleep was had. The colour range sits between the vibrance of warm colours (yellows, oranges) and the seriousness of darker, cold colours.
 
