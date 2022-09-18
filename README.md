@@ -2,16 +2,15 @@
 
 ![image of a brightly lit, hostel room with a bunk bed overlooking the view of an apartment window](/marcus-loke-WQJvWU_HZFo-unsplash.jpg) *(Photo by [Marcus Loke](https://unsplash.com/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
 
-## Hotel Room Service
+## GoodRoom, a voice-powered room servicing platform
 
-The story of our project was inspired by a less-than-stellar hostel room service experience involving a ghost call for pillows at 1 AM! 😴 This triggered an idea for us to create an application that integrates with the WhatsApp API and Voiceflow to enable ease of usability and accessibility.
+The story of our project was inspired by a less-than-stellar hostel room service experience involving a ghost call for pillows at 1 AM! 😴 This triggered an idea for us to create an application that integrates with the Telegram API and Voiceflow to enable ease of usability and accessibility when people request room services.
 
 
 Tech stack:
 
 - [Voiceflow](https://www.voiceflow.com)
-- [WhatsApp API](https://developers.facebook.com/docs/whatsapp/)
-- [CockroachDB](https://www.cockroachlabs.com)
+- [Telegram API](https://core.telegram.org)
 
 ## Build Setup
 
@@ -38,15 +37,15 @@ $ git clone `<repo URL>`
 
 ### The challenge
 
-The challenge of this hackathon project was to combine the technologies of Voiceflow and WhatsApp API 
+The challenge of this hackathon project was to combine the technologies of Voiceflow and WhatsApp API ...
 
 Some of our following challenges were:
 
-- 
+- ...
 
 Our users would be able to:
 
-- 
+- ...
 
 ### Screenshot
 
@@ -55,11 +54,11 @@ Our users would be able to:
 
 ### Links
 
-- [Live site OR URL?]()
+- [devpost](#)
 
 ## Our process
 
-As good developerse started off my researching the documentation
+As good developers do, we started off my researching the documentation for Voiceflow and WhatsApp API. As the hours passed and more snacks were consumed, we ran into an issue where ...
 
 ### Built with
 
@@ -71,7 +70,8 @@ Given our original intention was to create an application that was field-agnosti
 
 ### Useful Resources
 
-- 
+- (Voiceflow documentation)[https://www.voiceflow.com/docs]
+- (Telegram API documentation)[https://core.telegram.org]
 
 ## Authors
 
