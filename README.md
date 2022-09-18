@@ -48,12 +48,15 @@ Some of our following challenges were:
 
 Our users would be able to:
 
-- ...
+- use voice activation to contact a service\'s phone number
+- 
 
 ### Screenshot
 
 - ![Dialog box of Voiceflow chat UI](/dialog-box.png)
+*This image displays a sample dialog response and answer feedback loop*
 - ![Response flow chart of Voiceflow dialog design](/response-flow.png)
+*Voiceflow\'s web UI showing a visual depiction of the start of a conversation and the resulting flows that arise from different sample answers*
 
 ### Links
 
@@ -61,7 +64,7 @@ Our users would be able to:
 
 ## Our process
 
-As good developers do, we started off my researching the documentation for Voiceflow and Telegram API. As the hours passed and more snacks were consumed, we ran into an issue where ...
+As good developers do, we started off by researching the documentation for Voiceflow and Telegram API. As the hours passed and more snacks were consumed, we ran into an issue where ...
 
 ### Built with
 
