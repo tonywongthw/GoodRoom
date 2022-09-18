@@ -27,7 +27,7 @@ $ git clone `<repo URL>`
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [Our process](#our-process)
   - [Built with](#built-with)
@@ -51,7 +51,7 @@ Our users would be able to:
 - use voice activation to contact a service\'s phone number
 - 
 
-### Screenshot
+### Screenshots
 
 - ![Dialog box of Voiceflow chat UI](/dialog-box.png)
 *This image displays a sample dialog response and answer feedback loop*
