@@ -71,6 +71,10 @@ As good developers do, we started off by researching the documentation for Voice
 
 We chose to eventually scrao the front-end web UI due to configuration issues to put more emphasis on backend development and integrations, maximizing quality over quantity.
 
+Our name was created through keyword exploration and logo exploration, based on the keywords of warmth, comfort, room service, and (good) hospitality. 
+
+The logo\'s red-violet scheme was chosen to reflect a sense of ambience and night sky colours when a good night\'s sleep was had. The colour range sits between the vibrance of warm colours (yellows, oranges) and the seriousness of darker, cold colours.
+
 ### Built with
 
 Built with Voiceflow and Telegram API.
