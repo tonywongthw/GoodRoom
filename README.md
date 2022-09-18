@@ -76,8 +76,8 @@ Given our original intention was to create an application that was field-agnosti
 
 ### Useful Resources
 
-- (Voiceflow documentation)[https://www.voiceflow.com/docs]
-- (Telegram API documentation)[https://core.telegram.org]
+- [Voiceflow documentation](https://www.voiceflow.com/docs)
+- [Telegram API documentation](https://core.telegram.org)
 
 ## Authors
 
