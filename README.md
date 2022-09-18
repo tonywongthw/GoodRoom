@@ -43,14 +43,15 @@ The challenge of this hackathon project was to combine the technologies of Voice
 
 Some of our following challenges were:
 
-- Telegram API integration ...
+- Whatsapp API is not intuitive to receive messages from. The only way to receive messages was to set up an HTTP server and listen via a webhook, and Whatsapp hadn't simplified the process at all. For the sake of time we decided not to go with Whatsapp and instead used Telegram, which was much simpler.
 - dialog response configuration ...
 - front-end web configuration issues
 
 Our users would be able to:
 
-- use voice activation to contact a service\'s phone number
-- 
+- Order room service at any hotel using Goodrooms via Telegram! In the event that room service is not available to take a call and could miss an inquiry, the Goodrooms interface will allow them to register their inquiry with the hotel without the need for anyone to pick up!
+- Get information about operating hours of facilities!
+- Learn how to place food orders via the hotel interface!
 
 ### Screenshots
 
