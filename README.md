@@ -18,6 +18,12 @@ Tech stack:
 ```bash
 # clone repo
 $ git clone `<repo URL>`
+
+$ npm i telegraf
+$ npm i axios
+$ npm i dotenv
+
+$ node app.js
 ```
 
 ---
