@@ -1,10 +1,11 @@
 # Hack The North 2022
 
-![GoodRoom logo](/logo.png)
 
 ![image of a brightly lit, hostel room with a bunk bed overlooking the view of an apartment window](/marcus-loke-WQJvWU_HZFo-unsplash.jpg) *(Photo by [Marcus Loke](https://unsplash.com/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
 
 ## GoodRoom, a voice-powered room servicing platform
+
+![GoodRoom logo](/logo.png)
 
 The story of our project was inspired by a less-than-stellar hostel room service experience involving a ghost call for pillows at 1 AM! 😴 This triggered an idea for us to create an application that integrates with the Telegram API and Voiceflow to enable ease of usability and accessibility when people request room services.
 
