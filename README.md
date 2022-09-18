@@ -1,6 +1,5 @@
 # Hack The North 2022
 
-
 ![image of a brightly lit, hostel room with a bunk bed overlooking the view of an apartment window](/marcus-loke-WQJvWU_HZFo-unsplash.jpg) *(Photo by [Marcus Loke](https://unsplash.com/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
 
 ## GoodRoom, a voice-powered room servicing platform
@@ -44,7 +43,9 @@ The challenge of this hackathon project was to combine the technologies of Voice
 
 Some of our following challenges were:
 
-- ...
+- Telegram API integration ...
+- dialog response configuration ...
+- front-end web configuration issues
 
 Our users would be able to:
 
@@ -55,6 +56,7 @@ Our users would be able to:
 
 - ![Dialog box of Voiceflow chat UI](/dialog-box.png)
 *This image displays a sample dialog response and answer feedback loop*
+
 - ![Response flow chart of Voiceflow dialog design](/response-flow.png)
 *Voiceflow\'s web UI showing a visual depiction of the start of a conversation and the resulting flows that arise from different sample answers*
 
@@ -65,6 +67,9 @@ Our users would be able to:
 ## Our process
 
 As good developers do, we started off by researching the documentation for Voiceflow and Telegram API. As the hours passed and more snacks were consumed, we ran into an issue where ...
+
+
+We chose to eventually scrao the front-end web UI due to configuration issues to put more emphasis on backend development and integrations, maximizing quality over quantity.
 
 ### Built with
 
@@ -88,4 +93,4 @@ Given our original intention was to create an application that was field-agnosti
 ## Acknowledgements
 
 - BIG THANK YOU to [Hack the North](https://hackthenorth.com) 2022!
-- LOTS of appreciation for the sponsors, volunteers, and staff members who pulled off a great success!
+- LOTS of appreciation for the sponsors, volunteers, and staff members who pulled off a great success! 🎉🧑🏻‍💻
