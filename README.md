@@ -55,9 +55,11 @@ Our users would be able to:
 ### Screenshots
 
 ![Dialog box of Voiceflow chat UI](/dialog-box.png)
+
 _This image displays a sample dialog response and answer feedback loop_
 
 ![Response flow chart of Voiceflow dialog design](/response-flow.png)
+
 _Voiceflow\'s web UI showing a visual depiction of the start of a conversation and the resulting flows that arise from different sample answers_
 
 ### Links
