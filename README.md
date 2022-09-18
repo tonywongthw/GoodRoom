@@ -1,5 +1,7 @@
 # Hack The North 2022
 
+![GoodRoom logo](/logo.png)
+
 ![image of a brightly lit, hostel room with a bunk bed overlooking the view of an apartment window](/marcus-loke-WQJvWU_HZFo-unsplash.jpg) *(Photo by [Marcus Loke](https://unsplash.com/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
 
 ## GoodRoom, a voice-powered room servicing platform
