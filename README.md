@@ -37,7 +37,7 @@ $ git clone `<repo URL>`
 
 ### The challenge
 
-The challenge of this hackathon project was to combine the technologies of Voiceflow and WhatsApp API ...
+The challenge of this hackathon project was to combine the technologies of Voiceflow and Telegram API ...
 
 Some of our following challenges were:
 
@@ -58,11 +58,11 @@ Our users would be able to:
 
 ## Our process
 
-As good developers do, we started off my researching the documentation for Voiceflow and WhatsApp API. As the hours passed and more snacks were consumed, we ran into an issue where ...
+As good developers do, we started off my researching the documentation for Voiceflow and Telegram API. As the hours passed and more snacks were consumed, we ran into an issue where ...
 
 ### Built with
 
-Built with Voiceflow, CockroachDB, and WhatsApp API.
+Built with Voiceflow and Telegram API.
 
 ### Further development
 
