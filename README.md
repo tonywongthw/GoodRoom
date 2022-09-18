@@ -4,7 +4,7 @@
 
 ## Hotel Room Service
 
-The story of our project was inspired by a less-than-stellar hostel room service experience involving a ghost call for pillows at 1 AM 😴. This triggered an idea for us to create an application that integrates with the WhatsApp API and Voiceflow to ....
+The story of our project was inspired by a less-than-stellar hostel room service experience involving a ghost call for pillows at 1 AM! 😴 This triggered an idea for us to create an application that integrates with the WhatsApp API and Voiceflow to enable ease of usability and accessibility.
 
 
 Tech stack:
@@ -50,7 +50,8 @@ Our users would be able to:
 
 ### Screenshot
 
-- ![link]()
+- ![Dialog box of Voiceflow chat UI](/dialog-box.png)
+- ![Response flow chart of Voiceflow dialog design](/response-flow.png)
 
 ### Links
 
