@@ -11,7 +11,7 @@ The story of our project was inspired by a less-than-stellar hostel room service
 
 Tech stack:
 
-- [Voiceflow](https://www.voiceflow.com)
+- [Voiceflow API](https://www.voiceflow.com)
 - [Telegram API](https://core.telegram.org)
 
 ## Build Setup
@@ -78,7 +78,7 @@ The logo\'s red-violet scheme was chosen to reflect a sense of ambience and nigh
 
 ### Built with
 
-Built with Voiceflow and Telegram API.
+Built with Voiceflow API and Telegram API.
 
 ### Further development
 
@@ -86,7 +86,7 @@ Given our original intention was to create an application that was field-agnosti
 
 ### Useful Resources
 
-- [Voiceflow documentation](https://www.voiceflow.com/docs)
+- [Voiceflow API documentation](https://www.voiceflow.com/docs)
 - [Telegram API documentation](https://core.telegram.org)
 
 ## Authors
