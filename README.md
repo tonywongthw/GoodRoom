@@ -18,6 +18,7 @@ Tech stack:
 ```bash
 # clone repo
 $ git clone `<repo URL>`
+```
 ---
 
 ## Table of Contents
