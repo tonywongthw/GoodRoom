@@ -17,13 +17,34 @@ user_id = 'user1'
 
 url = f"https://general-runtime.voiceflow.com/state/user/{user_id}/interact"
 payload = {
-    "action": {"type": "launch"}
-    # "config": {
-    #     "tts": False,
-    #     "stripSSML": True,
-    #     "stopAll": True,
-    #     "excludeTypes": ["block", "debug", "flow"]
-    # }
+    "action": {
+        # Launch
+        #"type": "launch"
+
+        "type": "text",
+        "payload": "I want dumplings"
+
+        # Need Items
+        # 'type': 'path-k0kt3oln', 'payload': {'label': 'I need some items', 'actions': []}
+        # 'type': 'path-u0uj3ofh', 'payload': {'label': 'Pillow', 'actions': []}
+        # 'type': 'path-kr1kb3o3g', 'payload': {'label': '2', 'actions': []}
+
+        # Order
+        # 'type': 'path-9anj3omb', 'payload': {'label': 'I want to order food and drinks', 'actions': []}
+
+        # Location
+        # 'type': 'path-qsnv3obl', 'payload': {'label': 'I want to check location and opening hours of facilities and services', 'actions': []}
+        
+        # Redo?
+        # 'type': 'path-al1pj3ojz', 'payload': {'label': 'Yes', 'actions': []}
+        # 'type': 'path-vw1ty3o9u', 'payload': {'label': 'No', 'actions': []}
+    },
+    "config": {
+        "tts": False,
+        "stripSSML": True,
+        "stopAll": True,
+        "excludeTypes": ["block", "debug", "flow"]
+    }
 }
 headers = {
     "accept": "application/json",
